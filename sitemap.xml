@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://akind3.github.io/posts/a/</loc>
+    <lastmod>2020-04-29T11:54:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akind3.github.io/posts/</loc>
+    <lastmod>2020-04-29T11:54:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akind3.github.io/tags/primer/</loc>
+    <lastmod>2020-04-29T11:54:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akind3.github.io/tags/</loc>
+    <lastmod>2020-04-29T11:54:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akind3.github.io/tags/todo/</loc>
+    <lastmod>2020-04-29T11:54:46+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akind3.github.io/about/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
@@ -29,16 +54,6 @@
   
   <url>
     <loc>https://akind3.github.io/posts/post-8/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akind3.github.io/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akind3.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,17 +103,7 @@
   </url>
   
   <url>
-    <loc>https://akind3.github.io/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://akind3.github.io/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akind3.github.io/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   

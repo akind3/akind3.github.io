@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>A</title>
+      <link>https://akind3.github.io/posts/a/</link>
+      <pubDate>Wed, 29 Apr 2020 11:54:46 +0800</pubDate>
+      
+      <guid>https://akind3.github.io/posts/a/</guid>
+      <description>fzf is a general-purpose command-line fuzzy finder.
+It&amp;rsquo;s an interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
+Pros  Portable, no dependencies Blazingly fast The most comprehensive feature set Flexible layout Batteries included  Vim/Neovim plugin, key bindings and fuzzy auto-completion    Table of Contents  Installation  Using Homebrew or Linuxbrew Using git Using Linux package managers Windows As Vim plugin   Upgrading fzf Building fzf Usage  Using the finder Layout Search syntax Environment variables Options Demo   Examples fzf-tmux script Key bindings for command line Fuzzy completion for bash and zsh  Files and directories Process IDs Host names Environment variables / Aliases Settings Supported commands Custom fuzzy completion   Vim plugin Advanced topics  Performance Executing external programs Preview window   Tips  Respecting .</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://akind3.github.io/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
