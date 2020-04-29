@@ -1,3 +1,1 @@
-# akind3.github.io
-pages.
-hello.
+https://akind3.github.io
