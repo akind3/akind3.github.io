@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Primer on Ink</title>
-    <link>http://example.org/tags/primer/</link>
-    <description>Recent content in Primer on Ink</description>
+    <title>Primer on 小木木</title>
+    <link>https://akind3.github.io/tags/primer/</link>
+    <description>Recent content in Primer on 小木木</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate>
+    <copyright>©</copyright>
+    <lastBuildDate>Wed, 29 Apr 2020 11:54:46 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/primer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akind3.github.io/tags/primer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>fzf-fzf</title>
+      <link>https://akind3.github.io/posts/fzf/</link>
+      <pubDate>Wed, 29 Apr 2020 11:54:46 +0800</pubDate>
+      
+      <guid>https://akind3.github.io/posts/fzf/</guid>
+      <description>fzf is a general-purpose command-line fuzzy finder.
+It&amp;rsquo;s an interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
+Pros  Portable, no dependencies Blazingly fast The most comprehensive feature set Flexible layout Batteries included  Vim/Neovim plugin, key bindings and fuzzy auto-completion    Table of Contents  Installation  Using Homebrew or Linuxbrew Using git Using Linux package managers Windows As Vim plugin   Upgrading fzf Building fzf Usage  Using the finder Layout Search syntax Environment variables Options Demo   Examples fzf-tmux script Key bindings for command line Fuzzy completion for bash and zsh  Files and directories Process IDs Host names Environment variables / Aliases Settings Supported commands Custom fuzzy completion   Vim plugin Advanced topics  Performance Executing external programs Preview window   Tips  Respecting .</description>
+    </item>
+    
+    <item>
       <title>Primer: When You Have Too Much to Do</title>
-      <link>http://example.org/posts/post-1/</link>
+      <link>https://akind3.github.io/posts/post-1/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://example.org/posts/post-1/</guid>
+      <guid>https://akind3.github.io/posts/post-1/</guid>
       <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 It all keeps piling up, and it can feel overwhelming.
 How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
